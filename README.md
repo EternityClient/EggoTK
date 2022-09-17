@@ -4,10 +4,10 @@
 A nifty framework/script library written with Project Eternity in mind.<br>
 
 Features included are:<br>
-- A scaling/positioning handler,
+- A scaling/positioning handler
 - An easing library
 - An FPS Counter/Manager
-- A text renderer,
+- A text renderer
 - And lots more to come!
 
 # Figma Document (Branding)
