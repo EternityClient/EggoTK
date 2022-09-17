@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/kGB1KCB.png"/>
 
 # EggoTK
-A nifty framework written for Project Eternity
+A nifty framework/script library written with Project Eternity in mind.
 
 # Credits
 EggoTK Logo/Artwork - https://github.com/Tanza3D<br>
