@@ -8,6 +8,7 @@ Features included are:<br>
 - An easing library
 - An FPS Counter/Manager
 - A text renderer
+- A fully functional text/input engine (supports standard QWERTY keys)
 - And lots more to come!
 
 # Figma Document (Branding)
